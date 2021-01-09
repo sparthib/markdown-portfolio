@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Skills:
+
+- *Programming Languages/Tools:* Python, Github, Jupyter, VS Code
+- *Machine Learning Techniques/Tools:* Pytorch, Scikitlearn, Scipy, Numpy, Pandas, FastAI, Neural Network
+models, AWS
+- *Data Visualization:* Tableau, matplotlib, seaborn
+- *Relational Database tools/techniques:* PostgreSQL, PgAdmin

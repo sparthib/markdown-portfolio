@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a brain](https://www.hiclipart.com/free-transparent-background-png-clipart-pgsow)

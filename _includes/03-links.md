@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](http://github.com/sparthib)
+[LinkedIn](https://www.linkedin.com/in/sowmya-parthiban/)
+[Twitter](https://twitter.com/SwmyPrtbn)

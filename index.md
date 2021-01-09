@@ -1,12 +1,10 @@
----
-layout: default
----
+
 
 # Hi! My name is Sowmya! 
 
 <br>
 
-![Image of a brain](https://www.hiclipart.com/free-transparent-background-png-clipart-pgsow)
+![Image of a brain](https://banner2.cleanpng.com/20181130/iiy/kisspng-artificial-neural-network-deep-learning-neuron-bra-sprinterra-expert-software-development-amp-it-s-5c00fae5c99668.5725635615435681018257.jpg)
 
 
 <br>

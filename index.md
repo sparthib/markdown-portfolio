@@ -3,12 +3,6 @@
 # Hi! My name is Sowmya! 
 
 <br>
-
-![Image of a brain](https://www.extremetech.com/wp-content/uploads/2016/01/Connectome.jpg)
-
-
-<br>
-
 [GitHub 💻](http://github.com/sparthib)
 
 [LinkedIn 💼](https://www.linkedin.com/in/sowmya-parthiban/)
@@ -24,3 +18,7 @@
 models, AWS
 - **Data Visualization:** Tableau, matplotlib, seaborn
 - **Relational Database tools/techniques:** PostgreSQL, PgAdmin
+
+<br>
+
+![Image of a brain](https://www.extremetech.com/wp-content/uploads/2016/01/Connectome.jpg)
